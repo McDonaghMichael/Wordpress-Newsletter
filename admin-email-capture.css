@@ -1,0 +1,10 @@
+.email-inputs {
+    margin-top: 10px;
+}
+
+.email-inputs input[type="text"],
+.email-inputs textarea {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
