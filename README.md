@@ -1,4 +1,4 @@
-# Email Capture Plugin
+# Email Capture (Newsletter) Plugin
 
 This is a WordPress plugin that allows users to capture email addresses and manage them through an admin dashboard. It provides functionalities such as creating a database table, displaying a form to capture email addresses, storing the captured emails in the database, sending mass emails to the captured email addresses, and editing the header and footer content of the email template.
 
